@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assesment Program</string>
+
+    <string name="fragment_currency">Currency</string>
+    <string name="fragment_checkbox">CheckBox</string>
+    <string name="enter_value">Enter the value (4-Digits)</string>
+    <string name="calculate">Calculate</string>
+    <string name="value_must_be_more_than_10">Value must be more than 10</string>
+</resources>
